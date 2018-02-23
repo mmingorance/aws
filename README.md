@@ -1,0 +1,2 @@
+# aws
+MAKE YOUR LIFE EASIER IN AWSgit init
